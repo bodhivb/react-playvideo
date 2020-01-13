@@ -1,0 +1,33 @@
+{
+  "name": "react-playvideo",
+  "version": "1.0.0",
+  "description": "React component to play video from computer, YouTube or Vimeo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bodhivb/react-playvideo.git"
+  },
+  "keywords": [
+    "react",
+    "play",
+    "video",
+    "react-component",
+    "React-PlayVideo"
+  ],
+  "author": "Bodhi van Baardewijk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bodhivb/react-playvideo/issues"
+  },
+  "homepage": "https://github.com/Bodhivb/react-playvideo#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.17",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
