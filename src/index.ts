@@ -1,1 +1,1 @@
-export { Video } from "./Components/Video";
+export { Video } from "./Video";
